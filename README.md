@@ -8,6 +8,14 @@
 
 ---
 
+# 🎬 MovieMatch AI
+
+> **Live Demo:** [Click here to try MovieMatch instantly!](https://moviematch-55.streamlit.app)
+
+An intelligent, content-based movie recommendation engine that analyzes genres, cast, directors, and plot keywords using **Cosine Similarity**, paired with real-time sentiment analysis powered by **Google Gemini**.
+
+---
+
 ### Project Overview
 
 **MovieMatch** is a content-based movie recommendation engine that suggests films based on deep feature similarity rather than simple genre matching. Given 3 user-selected movies, the system identifies the strongest pairwise similarity and generates 4 tailored recommendations by analyzing multiple content dimensions simultaneously.
